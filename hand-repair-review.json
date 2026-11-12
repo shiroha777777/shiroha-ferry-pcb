@@ -1,0 +1,12 @@
+{
+  "source": "work/detail125/full/game-source.png",
+  "method": "Continuous cubic Bezier curves traced against original hand; no raster thresholding",
+  "changed_source_bounds": [
+    371.6992699918437,
+    248.9759406760652,
+    426.7117898735525,
+    325.0
+  ],
+  "manufacturing_six_layers_verified": true,
+  "outside_patch_unchanged": true
+}

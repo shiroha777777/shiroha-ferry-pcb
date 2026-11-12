@@ -1,0 +1,142 @@
+{
+  "blue-sky/standard": {
+    "silk_to_open_copper_mm": 0.154586,
+    "copper_to_outer_edge_mm": 0.87,
+    "independent_copper_pairs_below_0_13_mm": 2,
+    "long_thin_copper_candidates_0_10_mm": 0,
+    "long_narrow_black_gaps_candidates_0_13_mm": 0,
+    "long_thin_white_candidates_0_15_mm": 125,
+    "native_six_layers_equal_gerber": true,
+    "back_outline_and_drill_unchanged": true
+  },
+  "blue-sky/variant": {
+    "silk_to_open_copper_mm": 1.15763,
+    "copper_to_outer_edge_mm": 0.31999,
+    "independent_copper_pairs_below_0_13_mm": 164,
+    "long_thin_copper_candidates_0_10_mm": 63,
+    "long_narrow_black_gaps_candidates_0_13_mm": 174,
+    "long_thin_white_candidates_0_15_mm": 0,
+    "native_six_layers_equal_gerber": true,
+    "back_outline_and_drill_unchanged": true
+  },
+  "golden-fan/standard": {
+    "silk_to_open_copper_mm": 0.154816,
+    "copper_to_outer_edge_mm": 0.51031,
+    "independent_copper_pairs_below_0_13_mm": 63,
+    "long_thin_copper_candidates_0_10_mm": 19,
+    "long_narrow_black_gaps_candidates_0_13_mm": 73,
+    "long_thin_white_candidates_0_15_mm": 102,
+    "native_six_layers_equal_gerber": true,
+    "back_outline_and_drill_unchanged": true
+  },
+  "golden-fan/variant": {
+    "silk_to_open_copper_mm": 0.154816,
+    "copper_to_outer_edge_mm": 0.51031,
+    "independent_copper_pairs_below_0_13_mm": 503,
+    "long_thin_copper_candidates_0_10_mm": 53,
+    "long_narrow_black_gaps_candidates_0_13_mm": 460,
+    "long_thin_white_candidates_0_15_mm": 0,
+    "native_six_layers_equal_gerber": true,
+    "back_outline_and_drill_unchanged": true
+  },
+  "riverside-close/standard": {
+    "silk_to_open_copper_mm": 0.154589,
+    "copper_to_outer_edge_mm": 0.87,
+    "independent_copper_pairs_below_0_13_mm": 6,
+    "long_thin_copper_candidates_0_10_mm": 2,
+    "long_narrow_black_gaps_candidates_0_13_mm": 0,
+    "long_thin_white_candidates_0_15_mm": 121,
+    "native_six_layers_equal_gerber": true,
+    "back_outline_and_drill_unchanged": true
+  },
+  "riverside-close/variant": {
+    "silk_to_open_copper_mm": 0.154808,
+    "copper_to_outer_edge_mm": 0.32,
+    "independent_copper_pairs_below_0_13_mm": 164,
+    "long_thin_copper_candidates_0_10_mm": 24,
+    "long_narrow_black_gaps_candidates_0_13_mm": 137,
+    "long_thin_white_candidates_0_15_mm": 8,
+    "native_six_layers_equal_gerber": true,
+    "back_outline_and_drill_unchanged": true
+  },
+  "riverside-medium/standard": {
+    "silk_to_open_copper_mm": 0.154582,
+    "copper_to_outer_edge_mm": 0.31999,
+    "independent_copper_pairs_below_0_13_mm": 20,
+    "long_thin_copper_candidates_0_10_mm": 31,
+    "long_narrow_black_gaps_candidates_0_13_mm": 7,
+    "long_thin_white_candidates_0_15_mm": 158,
+    "native_six_layers_equal_gerber": true,
+    "back_outline_and_drill_unchanged": true
+  },
+  "riverside-medium/variant": {
+    "silk_to_open_copper_mm": 0.154801,
+    "copper_to_outer_edge_mm": 0.31999,
+    "independent_copper_pairs_below_0_13_mm": 301,
+    "long_thin_copper_candidates_0_10_mm": 103,
+    "long_narrow_black_gaps_candidates_0_13_mm": 230,
+    "long_thin_white_candidates_0_15_mm": 10,
+    "native_six_layers_equal_gerber": true,
+    "back_outline_and_drill_unchanged": true
+  },
+  "riverside-wide/standard": {
+    "silk_to_open_copper_mm": 0.154573,
+    "copper_to_outer_edge_mm": 0.32,
+    "independent_copper_pairs_below_0_13_mm": 36,
+    "long_thin_copper_candidates_0_10_mm": 56,
+    "long_narrow_black_gaps_candidates_0_13_mm": 11,
+    "long_thin_white_candidates_0_15_mm": 162,
+    "native_six_layers_equal_gerber": true,
+    "back_outline_and_drill_unchanged": true
+  },
+  "riverside-wide/variant": {
+    "silk_to_open_copper_mm": 0.154782,
+    "copper_to_outer_edge_mm": 0.32,
+    "independent_copper_pairs_below_0_13_mm": 373,
+    "long_thin_copper_candidates_0_10_mm": 143,
+    "long_narrow_black_gaps_candidates_0_13_mm": 250,
+    "long_thin_white_candidates_0_15_mm": 12,
+    "native_six_layers_equal_gerber": true,
+    "back_outline_and_drill_unchanged": true
+  },
+  "game/standard": {
+    "silk_to_open_copper_mm": 0.15459,
+    "copper_to_outer_edge_mm": 0.87,
+    "independent_copper_pairs_below_0_13_mm": 29,
+    "long_thin_copper_candidates_0_10_mm": 2,
+    "long_narrow_black_gaps_candidates_0_13_mm": 2,
+    "long_thin_white_candidates_0_15_mm": 203,
+    "native_six_layers_equal_gerber": true,
+    "back_outline_and_drill_unchanged": true
+  },
+  "game/variant": {
+    "silk_to_open_copper_mm": 1.15763,
+    "copper_to_outer_edge_mm": 0.31999,
+    "independent_copper_pairs_below_0_13_mm": 455,
+    "long_thin_copper_candidates_0_10_mm": 105,
+    "long_narrow_black_gaps_candidates_0_13_mm": 433,
+    "long_thin_white_candidates_0_15_mm": 0,
+    "native_six_layers_equal_gerber": true,
+    "back_outline_and_drill_unchanged": true
+  },
+  "anime/standard": {
+    "silk_to_open_copper_mm": 0.154623,
+    "copper_to_outer_edge_mm": 0.87,
+    "independent_copper_pairs_below_0_13_mm": 2,
+    "long_thin_copper_candidates_0_10_mm": 6,
+    "long_narrow_black_gaps_candidates_0_13_mm": 2,
+    "long_thin_white_candidates_0_15_mm": 128,
+    "native_six_layers_equal_gerber": true,
+    "back_outline_and_drill_unchanged": true
+  },
+  "anime/variant": {
+    "silk_to_open_copper_mm": 1.15763,
+    "copper_to_outer_edge_mm": 0.87,
+    "independent_copper_pairs_below_0_13_mm": 174,
+    "long_thin_copper_candidates_0_10_mm": 74,
+    "long_narrow_black_gaps_candidates_0_13_mm": 214,
+    "long_thin_white_candidates_0_15_mm": 0,
+    "native_six_layers_equal_gerber": true,
+    "back_outline_and_drill_unchanged": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "tag": "v1.3.4",
+  "revision": "blue-hand-and-gold-fan",
+  "boards": {
+    "blue-sky/standard": {
+      "native_six_layers_equal_gerber": true,
+      "back_outline_drill_unchanged": true,
+      "silk_to_copper_mm": 0.1545864591954886,
+      "copper_to_edge_mm": 0.8699999999999974,
+      "changed_copper_area_mm2": 0.0,
+      "changed_silk_area_mm2": 16.078151112601592
+    },
+    "blue-sky/variant": {
+      "native_six_layers_equal_gerber": true,
+      "back_outline_drill_unchanged": true,
+      "silk_to_copper_mm": 1.1576299999999975,
+      "copper_to_edge_mm": 0.31999006770969946,
+      "changed_copper_area_mm2": 16.078151112601596,
+      "changed_silk_area_mm2": 0.0
+    },
+    "golden-fan/standard": {
+      "native_six_layers_equal_gerber": true,
+      "back_outline_drill_unchanged": true,
+      "silk_to_copper_mm": 0.15481605826885683,
+      "copper_to_edge_mm": 0.5103099999999969,
+      "changed_copper_area_mm2": 284.9597925355118,
+      "changed_silk_area_mm2": 285.1947421662
+    },
+    "golden-fan/variant": {
+      "native_six_layers_equal_gerber": true,
+      "back_outline_drill_unchanged": true,
+      "silk_to_copper_mm": 0.15481605826885683,
+      "copper_to_edge_mm": 0.5103099999999969,
+      "changed_copper_area_mm2": 10.010597022540018,
+      "changed_silk_area_mm2": 9.904635489550001
+    }
+  }
+}

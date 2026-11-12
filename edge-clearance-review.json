@@ -1,0 +1,93 @@
+{
+  "version": "v1.3.4",
+  "revision": "blue-hand-and-gold-fan",
+  "rule_min_mm": 0.3,
+  "design_edge_margin_mm": 0.32,
+  "method": "Distances from final Gerber copper to routed outline and slot. Native six-layer correspondence verified. EDA GUI full DRC not executed.",
+  "boards": {
+    "blue-sky/standard": {
+      "top_copper_to_routed_edge_mm": 0.8699999999999974,
+      "bottom_copper_to_routed_edge_mm": 0.7609999999999957,
+      "meets_0_30_mm": true,
+      "native_six_layers_equal_gerber": true
+    },
+    "blue-sky/variant": {
+      "top_copper_to_routed_edge_mm": 0.31999006770969946,
+      "bottom_copper_to_routed_edge_mm": 0.7609999999999957,
+      "meets_0_30_mm": true,
+      "native_six_layers_equal_gerber": true
+    },
+    "golden-fan/standard": {
+      "top_copper_to_routed_edge_mm": 0.5103099999999969,
+      "bottom_copper_to_routed_edge_mm": 0.7609999999999957,
+      "meets_0_30_mm": true,
+      "native_six_layers_equal_gerber": true
+    },
+    "golden-fan/variant": {
+      "top_copper_to_routed_edge_mm": 0.5103099999999969,
+      "bottom_copper_to_routed_edge_mm": 0.7609999999999957,
+      "meets_0_30_mm": true,
+      "native_six_layers_equal_gerber": true
+    },
+    "riverside-close/standard": {
+      "top_copper_to_routed_edge_mm": 0.8699999999999974,
+      "bottom_copper_to_routed_edge_mm": 0.7609999999999957,
+      "meets_0_30_mm": true,
+      "native_six_layers_equal_gerber": true
+    },
+    "riverside-close/variant": {
+      "top_copper_to_routed_edge_mm": 0.3200000000000003,
+      "bottom_copper_to_routed_edge_mm": 0.7609999999999957,
+      "meets_0_30_mm": true,
+      "native_six_layers_equal_gerber": true
+    },
+    "riverside-medium/standard": {
+      "top_copper_to_routed_edge_mm": 0.31999006770969946,
+      "bottom_copper_to_routed_edge_mm": 0.7609999999999957,
+      "meets_0_30_mm": true,
+      "native_six_layers_equal_gerber": true
+    },
+    "riverside-medium/variant": {
+      "top_copper_to_routed_edge_mm": 0.31999006770969946,
+      "bottom_copper_to_routed_edge_mm": 0.7609999999999957,
+      "meets_0_30_mm": true,
+      "native_six_layers_equal_gerber": true
+    },
+    "riverside-wide/standard": {
+      "top_copper_to_routed_edge_mm": 0.3200000000000003,
+      "bottom_copper_to_routed_edge_mm": 0.7609999999999957,
+      "meets_0_30_mm": true,
+      "native_six_layers_equal_gerber": true
+    },
+    "riverside-wide/variant": {
+      "top_copper_to_routed_edge_mm": 0.3200000000000003,
+      "bottom_copper_to_routed_edge_mm": 0.7609999999999957,
+      "meets_0_30_mm": true,
+      "native_six_layers_equal_gerber": true
+    },
+    "game/standard": {
+      "top_copper_to_routed_edge_mm": 0.8699999999999974,
+      "bottom_copper_to_routed_edge_mm": 0.7609999999999957,
+      "meets_0_30_mm": true,
+      "native_six_layers_equal_gerber": true
+    },
+    "game/variant": {
+      "top_copper_to_routed_edge_mm": 0.31999006770969946,
+      "bottom_copper_to_routed_edge_mm": 0.7609999999999957,
+      "meets_0_30_mm": true,
+      "native_six_layers_equal_gerber": true
+    },
+    "anime/standard": {
+      "top_copper_to_routed_edge_mm": 0.8699999999999974,
+      "bottom_copper_to_routed_edge_mm": 0.7609999999999957,
+      "meets_0_30_mm": true,
+      "native_six_layers_equal_gerber": true
+    },
+    "anime/variant": {
+      "top_copper_to_routed_edge_mm": 0.8699999999999974,
+      "bottom_copper_to_routed_edge_mm": 0.7609999999999957,
+      "meets_0_30_mm": true,
+      "native_six_layers_equal_gerber": true
+    }
+  }
+}
